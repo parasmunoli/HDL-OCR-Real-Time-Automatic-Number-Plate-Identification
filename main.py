@@ -51,6 +51,6 @@ inference.Stream(
     model="anpr-debcj/1",
     output_channel_order="BGR",
     use_main_thread=True,
-    api_key="dy1i7zKkh7CHFrAO7GBU",  
+    api_key="****",  
     on_prediction=render,
 )
